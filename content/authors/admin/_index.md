@@ -3,7 +3,7 @@
 title: Hung Nguyen-Kha
 
 # Name pronunciation (optional)
-name_pronunciation: Hung Nguyen-Kha
+# name_pronunciation: Hung Nguyen-Kha
 
 # Full name (for SEO)
 first_name: Hung
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kha Hung Nguyen  received his Master’s degree from Soongsil University (South Korea), in 2021. His research interest is in wireless communications, with particular focus on optimization techniques, 5G system, beamforming design, NOMA, and IRS communications. Kha Hung joined the Signal Processing & Satellite Communications research group, SIGCOM, headed by Prof. Symeon Chatzinotas and he will be advised by the latter.
 {style="text-align: justify;"}
